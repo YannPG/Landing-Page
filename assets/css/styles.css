@@ -7,6 +7,8 @@
     min-height: 100vh;
   }
   
+/* vagabundo é foda parceiro */
+
   .intro-text-content, .intro-img {
     display: flex;
     flex-flow: column wrap;
